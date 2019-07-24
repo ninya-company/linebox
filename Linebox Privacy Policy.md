@@ -54,9 +54,3 @@ I may employ third-party companies and individuals due to the following reasons:
 **<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cambios a esta política de privacidad</font></font>**
 
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Es posible que actualice nuestra Política de privacidad de vez en cuando.</font> <font style="vertical-align: inherit;">Por lo tanto, se recomienda revisar esta página periódicamente para cualquier cambio.</font> <font style="vertical-align: inherit;">Le notificaré cualquier cambio mediante la publicación de la nueva Política de Privacidad en esta página.</font> <font style="vertical-align: inherit;">Estos cambios entran en vigencia inmediatamente después de que se publiquen en esta página.</font></font>
-
-**<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contáctenos</font></font>**
-
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Si tiene alguna pregunta o sugerencia sobre mi Política de privacidad, no dude en ponerse en contacto conmigo.</font></font>
-
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Esta página de política de privacidad se creó en</font></font> [<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">privacypolicytemplate.net</font></font>](https://privacypolicytemplate.net) <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">y fue modificada / generada por el generador de</font></font> [<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">políticas de privacidad de la aplicación.</font></font>](https://app-privacy-policy-generator.firebaseapp.com/)
